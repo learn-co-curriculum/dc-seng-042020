@@ -9,6 +9,7 @@
 - 03 Newsletter Review [video](https://wework.zoom.com/rec/share/-9xrLoih-VFIQ9LuynPTRKgzBIHLaaa8gShN8vQJnk2rTI7DEMJH_zfREvFtfW8b?startTime=1587498583000)
 - 04 Intro to OO [code](https://github.com/learn-co-students/dc-web-042020/tree/master/03-intro-to-oo) | video [pt1](https://wework.zoom.com/rec/share/_tx7EZGo_ElOfq_p9E2YRfUkRYjJaaa81SAfqPAJxUklsZ6pSZTnL70wYnML8QQS?startTime=1587564106000) [pt2](https://wework.zoom.com/rec/share/48BTEJau1HxOHqud0x_iWKI_IrW6X6a823Qaq6VYzRn1MJ89TaarMCuC3s2XGJvR?startTime=1587569371000)
 - 05 One to Many Relationships [code](https://github.com/learn-co-students/dc-web-042020/tree/master/04-one-to-many)
+- 06 OO Pets Lab Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/05-oo-pets-lab-review) | [video](https://youtu.be/2goptV3SB7U)
 
 ## Calendar
 
