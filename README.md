@@ -15,6 +15,7 @@
 - 06 OO Pets Lab Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/05-oo-pets-lab-review) | [video](https://youtu.be/2goptV3SB7U)
 - 07 Many To Many [code](https://github.com/learn-co-students/dc-web-042020/tree/master/06-many-to-many) | [video](https://wework.zoom.com/rec/share/ufFQEaz7-3tIXYHB42DCfa8cLrbIaaa8hHAX_acEzEYISkulJdJvb8GnDEAJ3715?startTime=1587736839000)
 - 08 Inheritance [code](https://github.com/learn-co-students/dc-web-042020/tree/master/07-inheritance) | [video](https://wework.zoom.com/rec/share/6ugld7PUq2FIfoGS0G3wapMcOIHbT6a81yZK-vANmUcXzo-pD3VL1xleG_rgPGSI?startTime=1587995850000)
+- 09 Intro to SQL | [starter](https://github.com/learn-co-students/dc-web-042020/tree/master/08-intro-to-sql)
 
 
 ## Blog Schedule
