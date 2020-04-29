@@ -16,7 +16,8 @@
 - 07 Many To Many [code](https://github.com/learn-co-students/dc-web-042020/tree/master/06-many-to-many) | [video](https://wework.zoom.com/rec/share/ufFQEaz7-3tIXYHB42DCfa8cLrbIaaa8hHAX_acEzEYISkulJdJvb8GnDEAJ3715?startTime=1587736839000)
 - 08 Inheritance [code](https://github.com/learn-co-students/dc-web-042020/tree/master/07-inheritance) | [video](https://wework.zoom.com/rec/share/6ugld7PUq2FIfoGS0G3wapMcOIHbT6a81yZK-vANmUcXzo-pD3VL1xleG_rgPGSI?startTime=1587995850000)
 - 09 Intro to SQL | [code](https://github.com/learn-co-students/dc-web-042020/tree/master/08-intro-to-sql)
-
+- 10 Code Challenge Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/09-code-challenge-review) | [video](https://wework.zoom.com/rec/share/449_LpzQ32RLHtbh8EaEfrE_AYG-eaa8h3BLrqdYzk-Sxb6qixs2nkA1DTP7TRsf?startTime=1588103913000)
+- 11 Intro to ORMS [code](https://github.com/learn-co-students/dc-web-042020/tree/master/10-intro-to-orms) | [video](https://wework.zoom.com/rec/share/-9VLF6_83FxIGK_g0WT8AYl-OoPfX6a82ycb-PtbyHdq9azLw-gzQgN9OqimG3E?startTime=1588186685000)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
