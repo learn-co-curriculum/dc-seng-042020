@@ -22,14 +22,14 @@
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
 - May 07: Saima, Issa, Abhinav, Jesse
-- May 14: Mert, Injae, Luis, Alex
+- May 14: Mert, Injae, Alex
 - May 21: Michael, Josh, Davis, Enrique
 - May 28: Saima, Issa, Abhinav, Jesse
-- Jun 04: Mert, Injae, Luis, Alex
+- Jun 04: Mert, Injae, Alex
 - Jun 11: Michael, Josh, Davis, Enrique
 - Jun 18: Saima, Issa, Abhinav, Jesse
-- Jun 25: Mert, Injae, Luis, Alex
+- Jun 25: Mert, Injae, Alex
 - Jul 01: Michael, Josh, Davis, Enrique
 - Jul 09: Saima, Issa, Abhinav, Jesse
-- Jul 16: Mert, Injae, Luis, Alex
+- Jul 16: Mert, Injae, Alex
 
