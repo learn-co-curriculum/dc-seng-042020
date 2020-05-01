@@ -18,6 +18,7 @@
 - 09 Intro to SQL | [code](https://github.com/learn-co-students/dc-web-042020/tree/master/08-intro-to-sql)
 - 10 Code Challenge Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/09-code-challenge-review) | [video](https://wework.zoom.com/rec/share/449_LpzQ32RLHtbh8EaEfrE_AYG-eaa8h3BLrqdYzk-Sxb6qixs2nkA1DTP7TRsf?startTime=1588103913000)
 - 11 Intro to ORMS [code](https://github.com/learn-co-students/dc-web-042020/tree/master/10-intro-to-orms) | [video](https://wework.zoom.com/rec/share/-9VLF6_83FxIGK_g0WT8AYl-OoPfX6a82ycb-PtbyHdq9azLw-gzQgN9OqimG3E?startTime=1588186685000)
+- 12 Intro to ActiveRecord [code](https://github.com/learn-co-students/dc-web-042020/tree/master/11-intro-to-active-record) | [video](https://wework.zoom.com/rec/share/wPN4M5ur9DxIeJGKzWHvfoUMBtT7T6a82iMc8vYPyhyDNMwULKBRh-kQkdHp25OH?startTime=1588255170000)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
