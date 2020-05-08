@@ -20,6 +20,8 @@
 - 11 Intro to ORMS [code](https://github.com/learn-co-students/dc-web-042020/tree/master/10-intro-to-orms) | [video](https://wework.zoom.com/rec/share/-9VLF6_83FxIGK_g0WT8AYl-OoPfX6a82ycb-PtbyHdq9azLw-gzQgN9OqimG3E?startTime=1588186685000)
 - 12 Intro to ActiveRecord [code](https://github.com/learn-co-students/dc-web-042020/tree/master/11-intro-to-active-record) | [video](https://wework.zoom.com/rec/share/wPN4M5ur9DxIeJGKzWHvfoUMBtT7T6a82iMc8vYPyhyDNMwULKBRh-kQkdHp25OH?startTime=1588255170000)
 - 13 ActiveRecord Associations [code](https://github.com/learn-co-students/dc-web-042020/tree/master/12-active-record-associations) | [video](https://wework.zoom.com/rec/share/_NRKKOupxFtLUIHt7nvvQYgMOrj3aaa80CdM_fNYyEj-RUkGud0GmAVxvpgqO4NM?startTime=1588341263000)
+- 14 APIs and the Internet [code](https://github.com/learn-co-students/dc-web-042020/tree/master/13-apis-and-the-internet) | [video](https://wework.zoom.com/rec/share/7-1qBYDuxD5IfaPt9xDxQI5mA6LDX6a8gCAY-vUKzR5t-g-mjhzuszEk8FCMc3fq?startTime=1588600835000)
+- 15 Rspec tests [code](https://github.com/learn-co-students/dc-web-042020/tree/master/14-intro-to-testing) | [video]()
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
