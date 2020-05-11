@@ -22,18 +22,19 @@
 - 13 ActiveRecord Associations [code](https://github.com/learn-co-students/dc-web-042020/tree/master/12-active-record-associations) | [video](https://wework.zoom.com/rec/share/_NRKKOupxFtLUIHt7nvvQYgMOrj3aaa80CdM_fNYyEj-RUkGud0GmAVxvpgqO4NM?startTime=1588341263000)
 - 14 APIs and the Internet [code](https://github.com/learn-co-students/dc-web-042020/tree/master/13-apis-and-the-internet) | [video](https://wework.zoom.com/rec/share/7-1qBYDuxD5IfaPt9xDxQI5mA6LDX6a8gCAY-vUKzR5t-g-mjhzuszEk8FCMc3fq?startTime=1588600835000)
 - 15 Rspec tests [code](https://github.com/learn-co-students/dc-web-042020/tree/master/14-intro-to-testing) | [video](https://wework.zoom.us/rec/play/6JItdL_-qjs3TteTuASDVqJ4W9S6f66shycYqaVbmR21W3UHZwX0NbEUZm2P6qnBIZLSHRuzlxGVqXI?autoplay=true&startTime=1588860171000)
+- 16 Intro to the Internet [slides](https://docs.google.com/presentation/d/1-UeyVVv1FLZ8QtHHv7gSofPDLBxOLPwMZoZk0ls8RkM/edit?usp=sharing)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
-- May 07: Saima, Issa, Abhinav, Jesse
+- May 07: Saima, Abhinav, Jesse
 - May 14: Mert, Injae, Alex
-- May 21: Michael, Josh, Davis, Enrique
-- May 28: Saima, Issa, Abhinav, Jesse
-- Jun 04: Mert, Injae, Alex
-- Jun 11: Michael, Josh, Davis, Enrique
-- Jun 18: Saima, Issa, Abhinav, Jesse
-- Jun 25: Mert, Injae, Alex
-- Jul 01: Michael, Josh, Davis, Enrique
-- Jul 09: Saima, Issa, Abhinav, Jesse
-- Jul 16: Mert, Injae, Alex
+- May 21: Josh, Davis, Enrique
+- May 28: Saima, Abhinav, Jesse
+- Jun 04: Mert, Injae, Alex, T
+- Jun 11: Josh, Davis, Enrique
+- Jun 18: Saima, Abhinav, Jesse
+- Jun 25: Mert, Injae, Alex, T
+- Jul 01: Josh, Davis, Enrique
+- Jul 09: Saima, Abhinav, Jesse
+- Jul 16: Mert, Injae, Alex, T
 
