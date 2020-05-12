@@ -24,6 +24,7 @@
 - 15 Rspec tests [code](https://github.com/learn-co-students/dc-web-042020/tree/master/14-intro-to-testing) | [video](https://wework.zoom.us/rec/play/6JItdL_-qjs3TteTuASDVqJ4W9S6f66shycYqaVbmR21W3UHZwX0NbEUZm2P6qnBIZLSHRuzlxGVqXI?autoplay=true&startTime=1588860171000)
 - 16 Intro to the Internet [slides](https://docs.google.com/presentation/d/1-UeyVVv1FLZ8QtHHv7gSofPDLBxOLPwMZoZk0ls8RkM/edit?usp=sharing)
 - 17 Sinatra MVC [code](https://github.com/learn-co-students/dc-web-042020/tree/master/15-intro-to-sinatra) | [video](https://wework.zoom.com/rec/share/6fx8A5zb7H1OXJ3f0BjxB5YOL8fseaa80SAY_qdcxR0OtdgH-JkLGhVQ-C48N8iW?startTime=1589202679000)
+- 18 Sinatra Forms [code](https://github.com/learn-co-students/dc-web-042020/tree/master/16-sinatra-forms) | [video](https://youtu.be/LaahdmfBtN4)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
