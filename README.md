@@ -27,6 +27,7 @@
 - 18 Sinatra Forms [code](https://github.com/learn-co-students/dc-web-042020/tree/master/16-sinatra-forms) | [video](https://youtu.be/LaahdmfBtN4)
 - 19 RESTful Routing [slides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPdfHBVWyGeWY/edit?usp=sharing)
 - 20 Sinatra Associations [code](17-sinatra-associated-objects) | [video](https://youtu.be/sCe6uAPdPh8)
+- 21 Intro to Rails [code](https://github.com/learn-co-students/dc-web-042020/tree/master/18_intro_to_rails) | [video](https://youtu.be/4oDqhKbYecY)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
