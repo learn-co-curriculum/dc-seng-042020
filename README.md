@@ -28,6 +28,7 @@
 - 19 RESTful Routing [slides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPdfHBVWyGeWY/edit?usp=sharing)
 - 20 Sinatra Associations [code](17-sinatra-associated-objects) | [video](https://youtu.be/sCe6uAPdPh8)
 - 21 Intro to Rails [code](https://github.com/learn-co-students/dc-web-042020/tree/master/18_intro_to_rails) | [video](https://youtu.be/4oDqhKbYecY)
+- 22 My First Rails App [code](https://github.com/learn-co-students/dc-web-042020/tree/master/19-rails-crud) | [video](https://youtu.be/jO4HtM9TF1Q)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
