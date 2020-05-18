@@ -29,6 +29,7 @@
 - 20 Sinatra Associations [code](17-sinatra-associated-objects) | [video](https://youtu.be/sCe6uAPdPh8)
 - 21 Intro to Rails [code](https://github.com/learn-co-students/dc-web-042020/tree/master/18_intro_to_rails) | [video](https://youtu.be/4oDqhKbYecY)
 - 22 My First Rails App [code](https://github.com/learn-co-students/dc-web-042020/tree/master/19-rails-crud) | [video](https://youtu.be/jO4HtM9TF1Q)
+- 23 Rails Forms [code](https://github.com/learn-co-students/dc-web-042020/tree/master/20-rails-forms) | [video](https://wework.zoom.us/rec/play/vpErdOmp-2g3GYHBuQSDBPZ5W9S5KK6sgSYb-PMOzBu1ViQBZlqiZ-ASZOoLhBH9A1n4uFkJJhHKkI0D?autoplay=true&startTime=1586188233000)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
