@@ -30,7 +30,8 @@
 - 21 Intro to Rails [code](https://github.com/learn-co-students/dc-web-042020/tree/master/18_intro_to_rails) | [video](https://youtu.be/4oDqhKbYecY)
 - 22 My First Rails App [code](https://github.com/learn-co-students/dc-web-042020/tree/master/19-rails-crud) | [video](https://youtu.be/jO4HtM9TF1Q)
 - 23 Rails Forms [code](https://github.com/learn-co-students/dc-web-042020/tree/master/20-rails-forms) | [video](https://wework.zoom.us/rec/play/vpErdOmp-2g3GYHBuQSDBPZ5W9S5KK6sgSYb-PMOzBu1ViQBZlqiZ-ASZOoLhBH9A1n4uFkJJhHKkI0D?autoplay=true&startTime=1586188233000)
-
+- 24 Rails Associations [code](https://github.com/learn-co-students/dc-web-042020/tree/master/21-rails-associations) | [video](https://wework.zoom.com/rec/share/tZB_DLDI2GRIQa__8mOGXpEzL73lX6a80ycW_PENzkkbSd89q97mqQ3ZogQLBiM5?startTime=1589896951000)
+- 25 Rails Validations [code](https://github.com/learn-co-students/dc-web-042020/tree/master/22-validations) | [video]()
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
 - May 07: Saima, Abhinav, Jesse
