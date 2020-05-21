@@ -33,6 +33,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 23 Rails Forms [code](https://github.com/learn-co-students/dc-web-042020/tree/master/20-rails-forms) | [video](https://wework.zoom.us/rec/play/vpErdOmp-2g3GYHBuQSDBPZ5W9S5KK6sgSYb-PMOzBu1ViQBZlqiZ-ASZOoLhBH9A1n4uFkJJhHKkI0D?autoplay=true&startTime=1586188233000)
 - 24 Rails Associations [code](https://github.com/learn-co-students/dc-web-042020/tree/master/21-rails-associations) | [video](https://wework.zoom.com/rec/share/tZB_DLDI2GRIQa__8mOGXpEzL73lX6a80ycW_PENzkkbSd89q97mqQ3ZogQLBiM5?startTime=1589896951000)
 - 25 Rails Validations [code](https://github.com/learn-co-students/dc-web-042020/tree/master/22-validations) | [video](https://wework.zoom.us/rec/play/usAqIemtqWg3HtCVtwSDU_B8W43vKfis1ncZqPFZyB7jByYKY1GgbrNGNOV8DJXjaZ2CpFZzbvSx6yDH?autoplay=true)
+- 26 Rails Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/23-rails-review/cosmictravel) | [video](https://wework.zoom.com/rec/play/v8ckJOv8rjM3ToCcuASDBfQsW460KKmsgXRPrvdezU22AXUDM1avMuEXYOZbUdmzMlvJCpoACs_KhatD)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
