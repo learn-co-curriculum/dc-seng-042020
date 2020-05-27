@@ -36,6 +36,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 26 Rails Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/23-rails-review/cosmictravel) | [video](https://wework.zoom.com/rec/play/v8ckJOv8rjM3ToCcuASDBfQsW460KKmsgXRPrvdezU22AXUDM1avMuEXYOZbUdmzMlvJCpoACs_KhatD)
 - 27 Cookies and Sessions [code](https://github.com/learn-co-students/dc-web-042020/tree/master/24-cookies-and-sessions) | [video](https://youtu.be/lIib4OW3Ht8)
 - 28 Authentication [code](https://github.com/learn-co-students/dc-web-042020/tree/master/25-authentication) | [video](https://youtu.be/1BNGvxfHC7Q)
+- 29 Intro to CSS [code](https://github.com/learn-co-students/dc-web-042020/tree/master/26-css-intro) | [video](https://youtu.be/IABEuz9Uy-8)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
