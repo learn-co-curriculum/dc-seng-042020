@@ -40,6 +40,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 
 ## Mod 3
 - 30 Intro to JS [code](https://github.com/learn-co-students/dc-web-042020/tree/master/27-JS-Intro) | [video](https://youtu.be/dHZ_37q2NZs)
+- 31 DOM [code](https://github.com/learn-co-students/dc-web-042020/tree/master/31-Intro-to-DOM) | [video](https://youtu.be/mkEH7FrKq_U)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
