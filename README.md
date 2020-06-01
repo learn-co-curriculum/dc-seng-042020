@@ -38,6 +38,9 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 28 Authentication [code](https://github.com/learn-co-students/dc-web-042020/tree/master/25-authentication) | [video](https://youtu.be/1BNGvxfHC7Q)
 - 29 Intro to CSS [code](https://github.com/learn-co-students/dc-web-042020/tree/master/26-css-intro) | [video](https://youtu.be/IABEuz9Uy-8)
 
+## Mod 3
+- 30 Intro to JS [code](https://github.com/learn-co-students/dc-web-042020/tree/master/27-JS-Intro) | [video](https://youtu.be/dHZ_37q2NZs)
+
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
 - May 07: Saima, Abhinav, Jesse
