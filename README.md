@@ -44,8 +44,8 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 32 Callback Functions and Iterators [code](https://github.com/learn-co-students/dc-web-042020/tree/master/32-Callbacks-Iterators) | [video](https://youtu.be/BSMhp84r34k)
 
 #### Old lecture videos and code alongs (coming soon)
-- Events video | starter code | finished code
-- Fetch video | starter code | finished code
+- Events [video](https://www.youtube.com/watch?v=brOnLaLEbkA&feature=youtu.be) 
+- Fetch [video](https://www.youtube.com/watch?v=A0h9zx9kw64&feature=youtu.be)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
