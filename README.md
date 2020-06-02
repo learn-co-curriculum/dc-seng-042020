@@ -45,7 +45,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 
 #### Old lecture videos and code alongs
 - Events [video](https://www.youtube.com/watch?v=brOnLaLEbkA&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/js-events-starter-code)
-- Fetch [video](https://www.youtube.com/watch?v=A0h9zx9kw64&feature=youtu.be) | starter code coming soom
+- Fetch [video](https://www.youtube.com/watch?v=A0h9zx9kw64&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/js-fetch-starter-code)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
