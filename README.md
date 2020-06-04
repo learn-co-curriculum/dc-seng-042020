@@ -43,7 +43,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 31 DOM [code](https://github.com/learn-co-students/dc-web-042020/tree/master/31-Intro-to-DOM) | [video](https://youtu.be/mkEH7FrKq_U)
 - 32 Callback Functions and Iterators [code](https://github.com/learn-co-students/dc-web-042020/tree/master/32-Callbacks-Iterators) | [video](https://youtu.be/BSMhp84r34k)
 - 33 Events [code](https://github.com/learn-co-students/dc-web-042020/tree/master/33-JS-Events) | [video](https://youtu.be/1jrbUYudDA4)
-
+- 34 TaskLister Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/34-TaskLister-Review) | [video](https://youtu.be/gjxqHMbt7zA)
 
 
 
