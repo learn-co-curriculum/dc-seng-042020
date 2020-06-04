@@ -42,7 +42,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 30 Intro to JS [code](https://github.com/learn-co-students/dc-web-042020/tree/master/27-JS-Intro) | [video](https://youtu.be/dHZ_37q2NZs)
 - 31 DOM [code](https://github.com/learn-co-students/dc-web-042020/tree/master/31-Intro-to-DOM) | [video](https://youtu.be/mkEH7FrKq_U)
 - 32 Callback Functions and Iterators [code](https://github.com/learn-co-students/dc-web-042020/tree/master/32-Callbacks-Iterators) | [video](https://youtu.be/BSMhp84r34k)
-- 33 Events [code](https://github.com/learn-co-students/dc-web-042020/tree/master/33-JS-Events) | video coming soon
+- 33 Events [code](https://github.com/learn-co-students/dc-web-042020/tree/master/33-JS-Events) | [video](https://youtu.be/1jrbUYudDA4)
 
 
 
