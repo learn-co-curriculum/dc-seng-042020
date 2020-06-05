@@ -44,7 +44,9 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 32 Callback Functions and Iterators [code](https://github.com/learn-co-students/dc-web-042020/tree/master/32-Callbacks-Iterators) | [video](https://youtu.be/BSMhp84r34k)
 - 33 Events [code](https://github.com/learn-co-students/dc-web-042020/tree/master/33-JS-Events) | [video](https://youtu.be/1jrbUYudDA4)
 - 34 TaskLister Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/34-TaskLister-Review) | [video](https://youtu.be/gjxqHMbt7zA)
+- 35 Fetch [code](https://github.com/learn-co-students/dc-web-042020/tree/master/35-Fetch) | [video](https://youtu.be/lgvBes_B-qw)
 
+- Monsters Lite [video walkthrough](https://youtu.be/D_PS1JqLxgI)
 
 
 #### Old lecture videos and code alongs
