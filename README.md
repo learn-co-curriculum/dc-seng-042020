@@ -45,7 +45,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 33 Events [code](https://github.com/learn-co-students/dc-web-042020/tree/master/33-JS-Events) | [video](https://youtu.be/1jrbUYudDA4)
 - 34 TaskLister Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/34-TaskLister-Review) | [video](https://youtu.be/gjxqHMbt7zA)
 - 35 Fetch [code](https://github.com/learn-co-students/dc-web-042020/tree/master/35-Fetch) | [video](https://youtu.be/lgvBes_B-qw)
-- 36 Single Page Apps [code](https://github.com/learn-co-students/dc-web-042020/tree/master/36-SPA)
+- 36 Single Page Apps [code](https://github.com/learn-co-students/dc-web-042020/tree/master/36-SPA) | [video](https://youtu.be/EF7Js6HfKAk)
 - Monsters Lite [video walkthrough](https://youtu.be/D_PS1JqLxgI)
 
 
