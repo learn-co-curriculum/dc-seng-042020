@@ -47,6 +47,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 35 Fetch [code](https://github.com/learn-co-students/dc-web-042020/tree/master/35-Fetch) | [video](https://youtu.be/lgvBes_B-qw)
 - 36 Single Page Apps [code](https://github.com/learn-co-students/dc-web-042020/tree/master/36-SPA) | [video](https://youtu.be/EF7Js6HfKAk)
 - Monsters Lite [video walkthrough](https://youtu.be/D_PS1JqLxgI)
+- 37 Toy Tale Lab Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/37-Toy-Tale-Review) | [video](https://youtu.be/YlnAbHpOWJ8)
 
 
 #### Old lecture videos and code alongs
