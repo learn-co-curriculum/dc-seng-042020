@@ -49,6 +49,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - Monsters Lite [video walkthrough](https://youtu.be/D_PS1JqLxgI)
 - 37 Toy Tale Lab Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/37-Toy-Tale-Review) | [video](https://youtu.be/YlnAbHpOWJ8)
 - 38 Rails API [code](https://github.com/learn-co-students/dc-web-042020/tree/master/38-Rails-API) | [video part 1](https://youtu.be/sVZQVbhx6Ns) | [video part 2](https://youtu.be/We11FQ3eEm8)
+- 39 Pokemon Teams Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/39-Lab-Review-Pokemon-Teams)
 
 
 #### Old lecture videos and code alongs
