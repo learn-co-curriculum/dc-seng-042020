@@ -64,10 +64,10 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - May 28: Saima, Abhinav, Jesse
 - June 4th: CANCELLED
 - Jun 11: Mert, Injae, Alex, T
-- Jun 18: Josh, Davis, Enrique
-- Jun 25: Saima, Abhinav, Jesse
-- Jul 01: Mert, Injae, Alex, T
-- Jul 09: Josh, Davis, Enrique
-- Jul 16: Saima, Abhinav, Jesse
-- Jul 23: Mert, Injae, Alex, T
+- Jun 18: CANCELLED
+- Jun 25: Josh, Davis, Enrique, Saima, Abhinav
+- Jul 01: CANCELLED
+- Jul 09: Jesse, Mert, Injae, Alex, T, Yo
+- Jul 16: Josh, Davis, Enrique, Saima, Abhinav, 
+- Jul 23: Jesse, Mert, Injae, Alex, T, Yo
 
