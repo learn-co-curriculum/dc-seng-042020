@@ -59,7 +59,8 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - Fetch [video](https://www.youtube.com/watch?v=A0h9zx9kw64&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/js-fetch-starter-code)
 
 ## Mod 4 
-- 42 Intro to React [code] | [video]
+- 42 Intro to React [code](https://github.com/learn-co-students/dc-web-042020/tree/master/42-Intro-to-React) | [video]
+- 43 Props [code](https://github.com/learn-co-students/dc-web-042020/tree/master/43-Props) | [video]
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
