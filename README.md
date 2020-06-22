@@ -50,8 +50,8 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 37 Toy Tale Lab Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/37-Toy-Tale-Review) | [video](https://youtu.be/YlnAbHpOWJ8)
 - 38 Rails API [code](https://github.com/learn-co-students/dc-web-042020/tree/master/38-Rails-API) | [video part 1](https://youtu.be/sVZQVbhx6Ns) | [video part 2](https://youtu.be/We11FQ3eEm8)
 - 39 Pokemon Teams Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/39-Lab-Review-Pokemon-Teams) | [video part 1](https://youtu.be/lEmyPx-cgrM) | [video part 2](https://youtu.be/S7z8jtZEi7c)
-- 40 this [code]() | [video](https://www.youtube.com/watch?v=dWE0UHUTJFg)
-- 41 OOJS [code]() | [video](https://www.youtube.com/watch?v=NJcy7tp40do)
+- 40 this [code](https://github.com/learn-co-students/dc-web-042020/tree/master/40-this) | [video](https://www.youtube.com/watch?v=dWE0UHUTJFg)
+- 41 OOJS [code](https://github.com/learn-co-students/dc-web-042020/tree/master/41-OOJS) | [video](https://www.youtube.com/watch?v=NJcy7tp40do)
 
 
 #### Old lecture videos and code alongs
@@ -59,7 +59,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - Fetch [video](https://www.youtube.com/watch?v=A0h9zx9kw64&feature=youtu.be) | [starter code](https://github.com/thuyanduong-flatiron/js-fetch-starter-code)
 
 ## Mod 4 
-- 42 Intro to React [code]() | [video]()
+- 42 Intro to React [code] | [video]
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
