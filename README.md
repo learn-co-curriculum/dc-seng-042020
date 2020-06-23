@@ -61,6 +61,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 ## Mod 4 
 - 42 Intro to React [code](https://github.com/learn-co-students/dc-web-042020/tree/master/42-Intro-to-React) | [video](https://youtu.be/KtzFq7sOEGQ)
 - 43 Props [code](https://github.com/learn-co-students/dc-web-042020/tree/master/43-Props) | [video](https://youtu.be/qCt21PbYh_c)
+- 44 State [code](https://github.com/learn-co-students/dc-web-042020/tree/master/44-State) | [video]
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
@@ -73,7 +74,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - Jun 18: CANCELLED
 - Jun 25: Josh, Davis, Enrique, 
 - Jul 02: Holiday Break
-- Jul 09: Yo, Saima, Abhinav,
+- Jul 08 **Wednesday**: Yo, Saima, Abhinav,
 - Jul 16: Jesse, Mert, Injae,
 - Jul 23: Alex, T, Yo
 
