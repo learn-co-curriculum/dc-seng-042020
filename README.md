@@ -61,8 +61,8 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 ## Mod 4 
 - 42 Intro to React [code](https://github.com/learn-co-students/dc-web-042020/tree/master/42-Intro-to-React) | [video](https://youtu.be/KtzFq7sOEGQ)
 - 43 Props [code](https://github.com/learn-co-students/dc-web-042020/tree/master/43-Props) | [video](https://youtu.be/qCt21PbYh_c)
-- 44 State [code](https://github.com/learn-co-students/dc-web-042020/tree/master/44-State) | [video]
-- 45 React Forms [code](https://github.com/learn-co-students/dc-web-042020/tree/master/45-React-Forms) | [video]
+- 44 State [code](https://github.com/learn-co-students/dc-web-042020/tree/master/44-State) | [video](https://youtu.be/k_0ydyxuGsg)
+- 45 React Forms [code](https://github.com/learn-co-students/dc-web-042020/tree/master/45-React-Forms) | [video](https://youtu.be/eVKGai2RrhQ)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
