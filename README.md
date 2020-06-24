@@ -63,6 +63,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 43 Props [code](https://github.com/learn-co-students/dc-web-042020/tree/master/43-Props) | [video](https://youtu.be/qCt21PbYh_c)
 - 44 State [code](https://github.com/learn-co-students/dc-web-042020/tree/master/44-State) | [video](https://youtu.be/k_0ydyxuGsg)
 - 45 React Forms [code](https://github.com/learn-co-students/dc-web-042020/tree/master/45-React-Forms) | [video](https://youtu.be/eVKGai2RrhQ)
+- 46 Combining It All Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/46-Lab-Review-Combining-It-All) | [video](https://youtu.be/oJva8BO-U-s)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
