@@ -66,6 +66,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 46 Combining It All Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/46-Lab-Review-Combining-It-All) | [video](https://youtu.be/oJva8BO-U-s)
 - 47 Hogwarts [code](https://github.com/learn-co-students/dc-web-042020/tree/master/47-Hogwarts) | [video](https://youtu.be/HC0PRiCcGTo)
 - 48 Lifecycle Methods [code](https://github.com/learn-co-students/dc-web-042020/tree/master/48-Component-Lifecycle) | [video](https://youtu.be/0PHWVg94vJM)
+- 49 Thinking In React [code](https://github.com/learn-co-students/dc-web-042020/tree/master/49-Thinking-In-React) | [video part 1] | [video part 2]
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
