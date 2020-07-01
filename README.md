@@ -68,6 +68,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 48 Lifecycle Methods [code](https://github.com/learn-co-students/dc-web-042020/tree/master/48-Component-Lifecycle) | [video](https://youtu.be/0PHWVg94vJM)
 - 49 Thinking In React [code](https://github.com/learn-co-students/dc-web-042020/tree/master/49-Thinking-In-React) | [video part 1](https://youtu.be/YoZ7EPaj7uw) | [video part 2](https://youtu.be/40JYwyWQfRo)
 - 50 Pokemon Searcher Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/50-Pokemon-Searcher-Review) | [video](https://youtu.be/K6JqLHmgTkM) | [alternate zoom video](https://wework.zoom.us/rec/play/u5ckcOCsrj43Sd3D4QSDBfZ-W9S5eqqs2iQa8vQJxB28V3gGYwGkZ7JEN-ezQa_xOksiwAaCXqOq1Wle)
+- 51 React Route [code](https://github.com/learn-co-students/dc-web-042020/tree/master/51-React-Router) | [video](https://youtu.be/0GlXHsAweag)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
