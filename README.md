@@ -81,7 +81,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - Jun 18: CANCELLED
 - Jun 25: Josh, Davis, Enrique, 
 - Jul 02: Holiday Break
-- Jul 08 **Wednesday**: Yo, Saima, Abhinav,
+- Jul 09: Yo, Saima, Abhinav,
 - Jul 16: Jesse, Mert, Injae,
 - Jul 23: Alex, T, Yo
 
