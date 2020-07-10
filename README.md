@@ -71,6 +71,13 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 51 React Router [code](https://github.com/learn-co-students/dc-web-042020/tree/master/51-React-Router) | [video](https://youtu.be/0GlXHsAweag)
 - 52 Auth [code](https://github.com/learn-co-students/dc-web-042020/tree/master/52-Auth) | [video part 1](https://youtu.be/q1pJbBwqGzM) | [video part 2](https://youtu.be/cGvrmEqAwu8)
 
+## Redux
+- 53 Intro to Redux [slides](https://github.com/learn-co-students/dc-web-042020/tree/master/53-Intro-to-Redux) |[video](https://youtu.be/iYmn-NAopUI)
+- 54 Reducer and actions code | video
+- 55 Provider and connect code | video
+- 56 Thinking in Redux starter code | video part 1 | video part 2
+- 57 Async Redux starter code | video
+
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
 - May 07: Saima, Abhinav, Jesse
