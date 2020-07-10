@@ -76,7 +76,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 54 Reducer and actions [code](https://github.com/learn-co-students/dc-web-042020/tree/master/54-Actions-Reducers) | video
 - 55 Provider and connect code | video
 - 56 Thinking in Redux [starter code](https://github.com/thuyanduong-flatiron/thinking-in-redux-starter-code) | [video part 1 ](https://www.youtube.com/watch?v=Bw0DZinm_Kw&feature=youtu.be)| [video part 2](https://www.youtube.com/watch?v=cc6CNPkeXgU&feature=youtu.be)
-- 57 Async Redux [video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be)
+- 57 Async Redux [starter code](https://github.com/thuyanduong-flatiron/async-redux-starter-code) | [video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
