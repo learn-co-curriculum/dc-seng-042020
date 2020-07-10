@@ -74,7 +74,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 ## Redux
 - 53 Intro to Redux [slides](https://github.com/learn-co-students/dc-web-042020/tree/master/53-Intro-to-Redux) |[video](https://youtu.be/iYmn-NAopUI)
 - 54 Reducer and actions [code](https://github.com/learn-co-students/dc-web-042020/tree/master/54-Actions-Reducers) | [video](https://youtu.be/K4QEv6D_e_8)
-- 55 Provider and connect [code](https://github.com/learn-co-students/dc-web-042020/tree/master/55-Provider-Connect) | video
+- 55 Provider and connect [code](https://github.com/learn-co-students/dc-web-042020/tree/master/55-Provider-Connect) | [video](https://youtu.be/VTgLIbDFOgA)
 - 56 Thinking in Redux [starter code](https://github.com/thuyanduong-flatiron/thinking-in-redux-starter-code) | [video part 1 ](https://www.youtube.com/watch?v=Bw0DZinm_Kw&feature=youtu.be)| [video part 2](https://www.youtube.com/watch?v=cc6CNPkeXgU&feature=youtu.be)
 - 57 Async Redux [starter code](https://github.com/thuyanduong-flatiron/async-redux-starter-code) | [video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be)
 
