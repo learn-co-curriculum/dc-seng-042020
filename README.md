@@ -69,6 +69,9 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 49 Thinking In React [code](https://github.com/learn-co-students/dc-web-042020/tree/master/49-Thinking-In-React) | [video part 1](https://youtu.be/YoZ7EPaj7uw) | [video part 2](https://youtu.be/40JYwyWQfRo)
 - 50 Pokemon Searcher Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/50-Pokemon-Searcher-Review) | [video](https://youtu.be/K6JqLHmgTkM)
 
+## Mod 5
+- 51 Deployment [slides](https://docs.google.com/presentation/d/1ikqy-7Gj6qBesUilzs8U14SPLm3xuNafzAr1zb2_DGc/edit?usp=sharing) | [video](https://youtu.be/0xqxCs4su90)
+
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
 - May 07: Saima, Abhinav, Jesse
