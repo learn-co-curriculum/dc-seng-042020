@@ -67,7 +67,16 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 47 Hogwarts [code](https://github.com/learn-co-students/dc-web-042020/tree/master/47-Hogwarts) | [video](https://youtu.be/HC0PRiCcGTo)
 - 48 Lifecycle Methods [code](https://github.com/learn-co-students/dc-web-042020/tree/master/48-Component-Lifecycle) | [video](https://youtu.be/0PHWVg94vJM)
 - 49 Thinking In React [code](https://github.com/learn-co-students/dc-web-042020/tree/master/49-Thinking-In-React) | [video part 1](https://youtu.be/YoZ7EPaj7uw) | [video part 2](https://youtu.be/40JYwyWQfRo)
-- 50 Pokemon Searcher Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/50-Pokemon-Searcher-Review) | [video](https://youtu.be/K6JqLHmgTkM)
+- 50 Pokemon Searcher Review [code](https://github.com/learn-co-students/dc-web-042020/tree/master/50-Pokemon-Searcher-Review) | [video](https://youtu.be/K6JqLHmgTkM) | [alternate zoom video](https://wework.zoom.us/rec/play/u5ckcOCsrj43Sd3D4QSDBfZ-W9S5eqqs2iQa8vQJxB28V3gGYwGkZ7JEN-ezQa_xOksiwAaCXqOq1Wle)
+- 51 React Router [code](https://github.com/learn-co-students/dc-web-042020/tree/master/51-React-Router) | [video](https://youtu.be/0GlXHsAweag)
+- 52 Auth [code](https://github.com/learn-co-students/dc-web-042020/tree/master/52-Auth) | [video part 1](https://youtu.be/q1pJbBwqGzM) | [video part 2](https://youtu.be/cGvrmEqAwu8)
+
+## Redux
+- 53 Intro to Redux [slides](https://github.com/learn-co-students/dc-web-042020/tree/master/53-Intro-to-Redux) |[video](https://youtu.be/iYmn-NAopUI)
+- 54 Reducer and actions [code](https://github.com/learn-co-students/dc-web-042020/tree/master/54-Actions-Reducers) | [video](https://youtu.be/K4QEv6D_e_8)
+- 55 Provider and connect [code](https://github.com/learn-co-students/dc-web-042020/tree/master/55-Provider-Connect) | [video](https://youtu.be/VTgLIbDFOgA)
+- 56 Thinking in Redux [starter code](https://github.com/thuyanduong-flatiron/thinking-in-redux-starter-code) | [video part 1 ](https://www.youtube.com/watch?v=Bw0DZinm_Kw&feature=youtu.be)| [video part 2](https://www.youtube.com/watch?v=cc6CNPkeXgU&feature=youtu.be)
+- 57 Async Redux [starter code](https://github.com/thuyanduong-flatiron/async-redux-starter-code) | [video](https://www.youtube.com/watch?v=vEY7kDT-zdY&feature=youtu.be)
 
 ## Mod 5
 - 51 Deployment [slides](https://docs.google.com/presentation/d/1ikqy-7Gj6qBesUilzs8U14SPLm3xuNafzAr1zb2_DGc/edit?usp=sharing) | [video](https://youtu.be/0xqxCs4su90)
@@ -83,7 +92,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - Jun 18: CANCELLED
 - Jun 25: Josh, Davis, Enrique, 
 - Jul 02: Holiday Break
-- Jul 08 **Wednesday**: Yo, Saima, Abhinav,
-- Jul 16: Jesse, Mert, Injae,
+- Jul 09: Saima, Abhinav,
+- Jul 16: Jesse, Mert, Injae, Yo
 - Jul 23: Alex, T, Yo
 
