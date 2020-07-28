@@ -80,6 +80,9 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 
 ## Mod 5
 - 51 Deployment [slides](https://docs.google.com/presentation/d/1ikqy-7Gj6qBesUilzs8U14SPLm3xuNafzAr1zb2_DGc/edit?usp=sharing) | [video](https://youtu.be/0xqxCs4su90)
+- 58 Prototypal JS
+- 59 Redux Round Two part 1 [code](https://github.com/learn-co-students/dc-web-042020/tree/master/57-redux-round-two) | [video](https://youtu.be/2UEq_6zKV9I)
+- 59 Redux Round Two part 2 [code](https://github.com/learn-co-students/dc-web-042020/tree/master/57-redux-round-two) | [video](https://youtu.be/ieLHX78Mz34)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
