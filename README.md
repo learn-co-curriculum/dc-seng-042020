@@ -83,6 +83,7 @@ lides](https://docs.google.com/presentation/d/164WexcwsMlilw9Ojv1mSa0l2-QjQCYIPd
 - 58 Prototypal JS
 - 59 Redux Round Two part 1 [code](https://github.com/learn-co-students/dc-web-042020/tree/master/57-redux-round-two) | [video](https://youtu.be/2UEq_6zKV9I)
 - 59 Redux Round Two part 2 [code](https://github.com/learn-co-students/dc-web-042020/tree/master/57-redux-round-two) | [video](https://youtu.be/ieLHX78Mz34)
+- 60 Testing in React [code](https://github.com/learn-co-students/dc-web-042020/tree/master/58-Testing-In-React) | [video](https://youtu.be/XottAAgpjb4)
 
 ## Blog Schedule
 - Apr 30: Michael, Josh, Davis, Enrique
